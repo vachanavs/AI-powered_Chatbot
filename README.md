@@ -4,11 +4,11 @@ This release includes the implementation of an AI-powered chatbot designed to re
 
 Key Features:
 
-✅ Document-Based Q&A – Users can upload documents, and the chatbot retrieves relevant answers.
-✅ Azure OpenAI GPT Integration – Generates intelligent responses based on indexed documents.
-✅ Azure AI Search – Enables efficient and accurate document retrieval.
-✅ Secure and Scalable – Uses Azure Blob Storage for document handling and Azure Content Safety for filtering responses.
-✅ Web-Based Interface – Built using Python (Flask/FastAPI) with an API for seamless interaction.
+Document-Based Q&A – Users can upload documents, and the chatbot retrieves relevant answers.
+Azure OpenAI GPT Integration – Generates intelligent responses based on indexed documents.
+Azure AI Search – Enables efficient and accurate document retrieval.
+Secure and Scalable – Uses Azure Blob Storage for document handling and Azure Content Safety for filtering responses.
+Web-Based Interface – Built using Python (Flask/FastAPI) with an API for seamless interaction.
 
 Technical Stack:
 
